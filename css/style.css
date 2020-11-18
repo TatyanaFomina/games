@@ -1,0 +1,31 @@
+html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 100;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 300;
+}
+
+.nav-link {
+  color: #111;
+  font-size: 14px;
+}
+
+.navbar-collapse .btn {
+  border-radius: 0;
+}
+
+.jumbotron .btn-primary,
+.footer .btn-primary {
+  background-color: coral;
+  border-color: coral;
+}
+
+.jumbotron .btn-primary:hover,
+.footer .btn-primary:hover {
+  background-color: lightcoral;
+}
